@@ -1,3 +1,4 @@
 # LMAO
 My first repository on GitHub
-I love :WorldofWarcaft:
+
+I love :pizza: and :cola:
