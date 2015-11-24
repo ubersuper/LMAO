@@ -1,4 +1,4 @@
 # LMAO
 My first repository on GitHub
 
-I love :pizza: and :game:
+I love :pizza: and :tea:
